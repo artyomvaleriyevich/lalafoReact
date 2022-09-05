@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "email": "Nurs@mail.ru",
+      "password": "$2a$10$IVkRAGYl4NIz4s16exDffeeCBL7fC1O8IoYwYDfnMQZxE9htbdS7q",
+      "name": "Nurs123",
+      "phone": "0500500500",
+      "balance": 1500,
+      "avatar": "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes.png",
+      "products": [],
+      "aboutMe": "Продавец",
+      "id": 1
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "$2a$10$BfVLnIfHNzexKYMS36gcCukbvspCW6nuJy9EsXwk.XUZwVHIQrQ4G",
+      "name": "Admin",
+      "phone": "1233215",
+      "balance": 1000,
+      "avatar": "https://media.istockphoto.com/photos/red-generic-sedan-car-isolated-on-white-background-3d-illustration-picture-id1189903200?k=20&m=1189903200&s=612x612&w=0&h=L2bus_XVwK5_yXI08X6RaprdFKF1U9YjpN_pVYPgS0o=",
+      "products": [],
+      "aboutMe": "",
+      "id": 2
+    },
+    {
+      "email": "car@mail.ru",
+      "password": "$2a$10$X4OoCbqwF2ZUxP0i0SVMtuHBtDqaaX7fq/EVjVljQGRkM6NPf3YmG",
+      "name": "123",
+      "phone": "123",
+      "balance": 1000,
+      "avatar": "https://media.istockphoto.com/photos/red-generic-sedan-car-isolated-on-white-background-3d-illustration-picture-id1189903200?k=20&m=1189903200&s=612x612&w=0&h=L2bus_XVwK5_yXI08X6RaprdFKF1U9YjpN_pVYPgS0o=",
+      "products": [],
+      "aboutMe": "",
+      "id": 3
+    },
+    {
+      "email": "artem@gmail.com",
+      "password": "$2a$10$gz8rjqygUAUjYXugyYp7HODirstM52BbCNVp95nVjw3PJC1RjIA2a",
+      "name": "admin",
+      "phone": "+996555362034",
+      "balance": 11500,
+      "avatar": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "products": [],
+      "aboutMe": "",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "image": "https://www.ixbt.com/img/n1/news/2022/7/5/image.MQ6.8.20200228144351_large.png",
+      "description": "Продаю машину",
+      "price": "20000",
+      "cash": "usd",
+      "city": "Бишкек",
+      "model": "222",
+      "year": "2015",
+      "volume": "5.5",
+      "body": "Седан",
+      "creator": {
+        "email": "Nurs@mail.ru",
+        "password": "$2a$10$IVkRAGYl4NIz4s16exDffeeCBL7fC1O8IoYwYDfnMQZxE9htbdS7q",
+        "name": "Nurs123",
+        "phone": "0500500500",
+        "balance": 1500,
+        "avatar": "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes.png",
+        "products": [],
+        "aboutMe": "Продавец",
+        "id": 1
+      },
+      "category": "Транспорт",
+      "type": "Автомобили",
+      "comment": [],
+      "chose": "Mercedes-Benz",
+      "id": 1
+    },
+    {
+      "image": "https://www.ledgerinsights.com/wp-content/uploads/2019/02/bmw-810x476.jpg",
+      "description": "Продаю машину новая!",
+      "price": "15000",
+      "cash": "usd",
+      "city": "Бишкек",
+      "model": "e39",
+      "year": "2000",
+      "volume": "4.4",
+      "body": "Седан",
+      "creator": {
+        "email": "Nurs@mail.ru",
+        "password": "$2a$10$IVkRAGYl4NIz4s16exDffeeCBL7fC1O8IoYwYDfnMQZxE9htbdS7q",
+        "name": "Nurs123",
+        "phone": "0500500500",
+        "balance": 1500,
+        "avatar": "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes.png",
+        "products": [],
+        "aboutMe": "Продавец",
+        "id": 1
+      },
+      "category": "Транспорт",
+      "type": "Автомобили",
+      "comment": [],
+      "chose": "Bmw",
+      "id": 2
+    },
+    {
+      "image": "https://media.istockphoto.com/photos/red-generic-sedan-car-isolated-on-white-background-3d-illustration-picture-id1189903200?k=20&m=1189903200&s=612x612&w=0&h=L2bus_XVwK5_yXI08X6RaprdFKF1U9YjpN_pVYPgS0o=",
+      "description": "123",
+      "price": "22222",
+      "cash": "kgs",
+      "city": "Бишкек",
+      "model": "A6",
+      "year": "2000",
+      "volume": "4.4",
+      "body": "Бус",
+      "creator": {
+        "email": "admin@mail.ru",
+        "password": "$2a$10$BfVLnIfHNzexKYMS36gcCukbvspCW6nuJy9EsXwk.XUZwVHIQrQ4G",
+        "name": "Admin",
+        "phone": "1233215",
+        "balance": 1000,
+        "avatar": "https://media.istockphoto.com/photos/red-generic-sedan-car-isolated-on-white-background-3d-illustration-picture-id1189903200?k=20&m=1189903200&s=612x612&w=0&h=L2bus_XVwK5_yXI08X6RaprdFKF1U9YjpN_pVYPgS0o=",
+        "products": [],
+        "aboutMe": "",
+        "id": 2
+      },
+      "category": "Транспорт",
+      "type": "Автомобили",
+      "comment": [],
+      "chose": "Audi",
+      "id": 3
+    },
+    {
+      "image": "https://media.istockphoto.com/photos/red-generic-sedan-car-isolated-on-white-background-3d-illustration-picture-id1189903200?k=20&m=1189903200&s=612x612&w=0&h=L2bus_XVwK5_yXI08X6RaprdFKF1U9YjpN_pVYPgS0o=",
+      "description": "123",
+      "price": "222",
+      "cash": "kgs",
+      "city": "Ош",
+      "delivery": "Бесплатная доставка",
+      "creator": {
+        "email": "car@mail.ru",
+        "password": "$2a$10$X4OoCbqwF2ZUxP0i0SVMtuHBtDqaaX7fq/EVjVljQGRkM6NPf3YmG",
+        "name": "123",
+        "phone": "123",
+        "balance": 1000,
+        "avatar": "https://media.istockphoto.com/photos/red-generic-sedan-car-isolated-on-white-background-3d-illustration-picture-id1189903200?k=20&m=1189903200&s=612x612&w=0&h=L2bus_XVwK5_yXI08X6RaprdFKF1U9YjpN_pVYPgS0o=",
+        "products": [],
+        "aboutMe": "",
+        "id": 3
+      },
+      "category": "Животные",
+      "type": "Собака",
+      "comment": [],
+      "chose": "",
+      "id": 4
+    }
+  ]
+}

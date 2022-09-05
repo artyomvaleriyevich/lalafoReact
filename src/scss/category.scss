@@ -1,0 +1,108 @@
+.category {
+  padding: 50px 0;
+  &__title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  &__title2 {
+    font-size: 20px;
+  }
+  &__head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+  }
+  &__chose {
+    width: 300px;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+  }
+  &__search {
+    position: relative;
+  }
+  &__input {
+    width: 500px;
+    height: 50px;
+    padding-left: 15px;
+  }
+  &__icon1 {
+    font-size: 20px;
+  }
+  &__icon {
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 0;
+    width: 40px;
+    height: 50px;
+    background: #22ca4680;
+    font-size: 20px;
+  }
+  &__select {
+    width: 200px;
+    height: 40px;
+    padding-left: 15px;
+  }
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+  }
+  &__input2 {
+    width: 150px;
+    height: 30px;
+    padding-left: 15px;
+  }
+  &__money {
+    display: flex;
+    column-gap: 10px;
+  }
+  &__label  {
+    display: flex;
+    font-size: 20px;
+    column-gap: 4px;
+  }
+  &__sort {
+    display: flex;
+    flex-direction: column;
+  }
+  &__select2 {
+    width: 300px;
+    height: 40px;
+    padding-left: 15px;
+  }
+  &__btn {
+    width: 200px;
+    height: 40px;
+    background: #22ca46;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  &__list {
+    display: none;
+    padding: 10px;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    background: white;
+    width: 300px;
+    &_active {
+      display: block;
+    }
+  }
+  &__item {
+    margin-bottom: 5px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+}
